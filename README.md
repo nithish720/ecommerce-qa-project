@@ -7,20 +7,20 @@ A complete Manual + Automation Testing suite for an E-commerce web application. 
 
 ---
 
-✅ Features
+ ## ✅ Features
 
-🔹 Manual test case design
-🔹 Selenium automation (Python)
-🔹 Bug tracking in Excel
-🔹 Test execution reports
+🔹 Manual test case design  
+🔹 Selenium automation (Python)  
+🔹 Bug tracking in Excel  
+🔹 Test execution reports  
 🔹 Screenshots for failed cases
 
-Tool/Tech
 
-🔹Python
-🔹Selenium
-🔹Excel
-🔹Jira
-🔹Agile methodology
+## Tool/Tech
 
+🔹 Python  
+🔹 Selenium  
+🔹 Excel  
+🔹 Jira  
+🔹 Agile methodology
 
